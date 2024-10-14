@@ -1,5 +1,5 @@
 setup(
-name - "image_processing",
+name = "image_processing",
 version = "0.1",
 author = "Igor_Ferrer",
 author_email = "igori83@gmail.com",
