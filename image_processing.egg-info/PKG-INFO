@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.0.1
+Summary: pacote de processamento de imagens
+Home-page: https://github.com/igorferrer-data/image-processing-package
+Author: Igor_Ferrer
+Author-email: igori83@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: jupyterlab<5.0.0,>=4.0.0

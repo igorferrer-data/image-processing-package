@@ -1,2 +1,2 @@
-whit open("requirements.txt") as f:
-    requirements = f.read().splitlines()
+requests>=2.0.0
+jupyterlab>=4.2.5
